@@ -9,8 +9,7 @@ Key areas of focus include:
 - Integrating data across multiple jurisdictions (Toronto & Ottawa)
 - Predicting Future Homicide trends using Machine Learning
 
-📄 **Refer to the full project report** for detailed methodology, findings, and recommendations:  
-[OWASP Top 10 for Mobile App_Final Report.pdf](https://github.com/pavithrancj/OWASP-Top-0-Mobile-Application/blob/main/OWASP%20Top%2010%20for%20Mobile%20App_Final%20Report.pdf)
+📄 **Refer to the full project reports** for detailed methodology, findings, and recommendations
 
 📸 **Project photos and presentation updates** shared by our supervising professor are available on LinkedIn:  
 [LinkedIn Capstone Showcase](https://www.linkedin.com/feed/update/urn:li:activity:7147258888612962304/)
