@@ -8,9 +8,11 @@ Key areas of focus include:
 - Evaluating the impact of external factors (e.g., immigration trends, economic shifts)  
 - Integrating data across multiple jurisdictions (Toronto & Ottawa)
 - Predicting Future Homicide trends using Machine Learning
-
+  
+---
 📄 **Refer to the full project reports** for detailed methodology, findings, and recommendations
 
+---
 📸 **Project photos and presentation updates** shared by our supervising professor are available on LinkedIn:  
 [LinkedIn Capstone Showcase](https://www.linkedin.com/feed/update/urn:li:activity:7147258888612962304/)
 
